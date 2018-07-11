@@ -14,3 +14,6 @@ IHCAI及腾讯：https://github.com/wangle1218/Advertising-algorithm-competition
 2018腾讯广告算法大赛总结/0.772229/Rank11：https://zhuanlan.zhihu.com/p/38034501?utm_source=com.tencent.tim&utm_medium=social&utm_oi=555381879923224576    
 2018腾讯社交算法大赛（Rank 19）：https://zhuanlan.zhihu.com/p/38628579  
 ## IJCAI 阿里妈妈  
+IJCAI-18 阿里妈妈搜索广告转化预测总结(29 / 0.13939): https://zhuanlan.zhihu.com/p/36858386  
+## talkingdata-adtracking-fraud-detection  
+（Rank 1）：https://github.com/flowlight0/talkingdata-adtracking-fraud-detection
